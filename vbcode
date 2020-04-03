@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/904px-The_Pirate_Bay_logo.svg.png" group-title="Aviso",Atualizado 03/04/2020 10:11
-www.google.com
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Pirate_Bay_logo.svg/904px-The_Pirate_Bay_logo.svg.png" group-title="Aviso",Atualizado 03/04/2020 11:15
+http://www.google.com
 
 #EXTINF:-1 tvg-logo="http://iv.pe/te2" group-title="Canais | Variedades",A&E FHD
 http://csrv.me:80/live/fngmD/nNZBb/2025.m3u8
